@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\vladislav.donchenko\Desktop\C++ projects\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(5,9): warning C4101: 'num1': unreferenced local variable
+C:\Users\vladislav.donchenko\Desktop\C++ projects\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(5,15): warning C4101: 'num2': unreferenced local variable
+  ConsoleApplication1.vcxproj -> C:\Users\vladislav.donchenko\Desktop\C++ projects\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
